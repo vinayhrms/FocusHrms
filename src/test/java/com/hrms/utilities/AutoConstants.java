@@ -7,5 +7,6 @@ public interface AutoConstants {
 	
 	String fireFoxKey="./drivers/geckodriver.exe";
 	String fireFoxValue="webdriver.gecko.driver";
+	String filePath="./data/input.xlsx";
 
 }
